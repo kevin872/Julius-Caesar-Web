@@ -23,3 +23,7 @@ To navigate around the website, you can also use the home bar at the top of ever
 * The second way is to:
   * In the homepage, find the block of text that lists the main characters of the play and click on it.
   * Now you are on the characters page, and you will want to click on one of the text boxes that turn black.
+
+## Technologies I Used:
+* HTML
+* CSS
