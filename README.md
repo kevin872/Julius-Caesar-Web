@@ -1,5 +1,5 @@
 # My website on Julius Caesar
-This is my first ever website, and it was made from scratch. I have never made one before, and I have no clue why. Every step of the process was fun,
+This is my first ever website, and it was ___made from scratch___. I have never made one before, and I have no clue why. Every step of the process was fun,
 like learning how to code in HTML and CSS, implementing a creative design, 
 and learning new ways to do things in the creation process. This is also my project for English class.
 
