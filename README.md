@@ -35,6 +35,21 @@ To navigate around the website, you can also use the home bar at the top of ever
   * In the homepage, find the block of text that lists the main characters of the play and click on it.
   * Now you are on the characters page, and you will want to click on one of the text boxes that turn black.
 
+## Sources Used:
+[www.shakespeare.org](https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/shakespeares-plays/julius-caesar/#:~:text=Julius%20Caesar%20Summary,fights%20them%20in%20a%20battle.)
+
+[www.sparknotes.com](https://www.sparknotes.com/shakespeare/juliuscaesar/summary/)
+
+[www.cliffsnotes.com](https://www.cliffsnotes.com/literature/j/julius-caesar/play-summary)
+
+[Video SparkNotes: Shakespeare's Julius Caesar summary](https://www.youtube.com/watch?v=kgyAPrv30eg)
+
+#### AudioBook:
+[JULIUS CAESAR by William SHAKESPEARE - FULL AudioBook | Greatest AudioBooks V1](https://www.youtube.com/watch?v=lnLahYbq_7Q)
+
+#### Movie:
+[Julius Shakespeare](https://www.youtube.com/watch?v=mQQh115qAME)
+
 ## Contact me if there are any issues found:
 Email: kevinr63753@gmail.com
 
